@@ -22,5 +22,5 @@ Here's why you should back my project.
 
 Contact me:
 
-* :twitter: [@myname](https://twitter.com/myname)
-* :letter: [me@tld.example](mailto:em@tld.example)
+* 🐦 [@myname](https://twitter.com/myname)
+* ✉️ [me@tld.example](mailto:em@tld.example)
